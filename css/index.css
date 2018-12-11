@@ -1,0 +1,41 @@
+body {
+    background-color: lightgray
+}
+
+.navbar-brand {
+    width: 65%
+}
+
+.card-img-top {
+    height: 50%;
+}
+
+.card-deck {
+    padding-left: 5%;
+    padding-right: 3%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    width: 95%;
+}
+
+.card {
+    height: 500px;
+}
+
+.jumbotron {
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+.carousel-inner img {
+    margin: auto;
+    height: 400px;
+}
+
+.list-group {
+    width: 25%;
+}
+
+.container {
+    padding-bottom: 0.5%;
+}

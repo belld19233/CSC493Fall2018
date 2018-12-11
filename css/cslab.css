@@ -1,0 +1,24 @@
+.navbar-brand {
+    width: 65%
+}
+
+.card-img-top {
+    height: 40%;
+}
+
+.card-deck {
+    padding-left: 5%;
+    padding-right: 3%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    width: 95%;
+}
+
+.card {
+    height: 500px;
+}
+
+.jumbotron {
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
