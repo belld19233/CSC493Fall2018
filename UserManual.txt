@@ -1,0 +1,1 @@
+As the Read Me explains, in order to view the website it must be hosted either on a local machine, an online service (such as Github or Google) or using the Brackets live view function. To navigate the website is much like any other. A navigation bar appears at the top of each page and the Berea College brand also directs you to the home page. 
